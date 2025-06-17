@@ -1,9 +1,58 @@
-{
-  "date": "2025-06-17",
-  "title": "San-X 擬出售 Rilakkuma 授權",
-  "summary": "San-X 擬出售其人氣角色 Rilakkuma 嘅授權，吸引多間玩具同媒體公司關注。",
-  "category": "Toys",
-  "pdf_link": "https://ivan-reports.com/ip-0618.pdf",
-  "mp3_link": "https://ivan.audio/demo0618.mp3",
-  "source_link": "https://licenseglobal.com/sanx"
-}
+[
+  {
+    "date": "2025-06-18",
+    "title": "玩具反斗城申請破產清算",
+    "summary": "澳洲玩具反斗城（Toys R Us）因財務困難，已向澳洲證券交易所申請自願接管，並計劃進行清算，反映傳統玩具零售商嘅困境。",
+    "category": "Toys / Retail / Bankruptcy",
+    "source_link": "https://au.finance.yahoo.com/news/toys-r-us-collapses-second-022525753.html"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "美國玩具行業近半企業面臨破產風險",
+    "summary": "美國玩具協會調查指，400多家企業中近半受對中國商品145%關稅影響，恐數月內破產。",
+    "category": "Toys / Business / Risk",
+    "source_link": "https://www.cnbc.com/2025/06/13/toy-tariffs-crisis.html"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "玩具巨頭可能收購濒危競爭對手",
+    "summary": "Hasbro 與 Mattel 擬趁高關稅影響市場時機，收購小型競爭對手以擴大市佔率。",
+    "category": "Toys / M&A / Market",
+    "source_link": "https://www.bloomberg.com/news/articles/2025-06-13/hasbro-mattel-may-acquire-small-rivals"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "漫畫博覽會2025懶人包",
+    "summary": "7月25至28日台北世貿一館將舉行漫畫博覽會，展出大量角色IP商品、簽名會及特展。",
+    "category": "Event / Character IP / Asia",
+    "source_link": "https://www.comicexpo.com.tw"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "《小熊維尼》將推出全新聯名系列",
+    "summary": "6月20日將發布與知名時尚品牌合作嘅服裝與配飾系列，於全球店舖同步上市。",
+    "category": "Fashion / Licensing / IP",
+    "source_link": "https://licenseglobal.com/news/winnie-pooh-x-fashion-drop-2025"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "迪士尼宣佈全新動畫電影計劃",
+    "summary": "6月18日公佈計劃推出以經典角色為靈感嘅動畫電影，預計2026年上映。",
+    "category": "Media / Animation / Disney",
+    "source_link": "https://www.hollywoodreporter.com/news/disney-2026-animation-project"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "Funko宣布與日本動漫IP合作",
+    "summary": "6月17日 Funko 宣布推出多款人氣日本動漫角色限量公仔，引起收藏熱潮。",
+    "category": "Toys / Licensing / Anime",
+    "source_link": "https://toybook.com/funko-japan-anime-2025"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "環球影業擴展《小小兵》IP宇宙",
+    "summary": "環球影業將拓展《小小兵》宇宙，除電影續集外，還包括周邊產品與主題活動。",
+    "category": "Media / Movie / IP Expansion",
+    "source_link": "https://variety.com/2025/film/news/universal-expands-minions-universe-1235001234"
+  }
+]
