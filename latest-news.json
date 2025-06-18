@@ -1,143 +1,16 @@
 [
   {
     "date": "2025-06-18",
-    "title": "美國Mattel收購新興教育玩具品牌",
-    "summary": "美泰宣布收購美國新創教育玩具公司TinkerLearn，擴大其教育產品線。",
-    "category": "USA / Toys / Acquisition",
-    "source_link": "https://www.bloomberg.com/news/articles/2025-06-17/mattel-acquires-tinkerlearn"
+    "title": "Moonbug母公司Candle Media傳計劃出售",
+    "summary": "據 Axios 報道，Candle Media（由 Kevin Mayer 和 Tom Staggs 領導）正考慮出售 Moonbug Entertainment（Cocomelon 母公司），現正物色潛在買家，有望成為2025年最大兒童內容領域收購案之一。",
+    "category": "Media / M&A / Kids Content",
+    "source_link": "https://www.axios.com/2025/06/17/moonbug-candle-media-kevin-mayer"
   },
   {
     "date": "2025-06-18",
-    "title": "韓國CJ ENM收購動漫工作室",
-    "summary": "CJ ENM 宣布收購韓國人氣動畫工作室Studio Wabba，強化原創IP實力。",
-    "category": "Korea / Media / Acquisition",
-    "source_link": "https://koreatimes.co.kr/www/art/2025/06/689_376278.html"
-  },
-  {
-    "date": "2025-06-18",
-    "title": "歐洲童裝品牌MiniMol被LVMH收購",
-    "summary": "LVMH宣布正式收購比利時童裝品牌MiniMol，加強兒童時尚領域布局。",
-    "category": "EU / Fashion / Acquisition",
-    "source_link": "https://fashionnetwork.com/news/lvmh-acquires-minimol"
-  },
-  {
-    "date": "2025-06-18",
-    "title": "日本萬代南夢宮收購角色周邊設計公司",
-    "summary": "萬代南夢宮收購東京角色設計公司Pixdoo，強化旗下IP商品開發能力。",
-    "category": "Japan / Licensing / Acquisition",
-    "source_link": "https://asia.nikkei.com/Business/Business-deals/bandai-acquires-pixdoo"
-  },
-  {
-    "date": "2025-06-18",
-    "title": "美國玩具品牌Zuru美國分部申請破產保護",
-    "summary": "Zuru美國業務因應市場壓力，已根據第11章破產法案申請重組。",
-    "category": "USA / Toys / Bankruptcy",
-    "source_link": "https://www.wsj.com/business/zuru-us-files-chapter11"
-  },
-  {
-    "date": "2025-06-18",
-    "title": "南韓服裝品牌PinkMuse破產重整",
-    "summary": "南韓流行服飾品牌PinkMuse宣布破產重整，並擬尋求戰略買家。",
-    "category": "Korea / Fashion / Bankruptcy",
-    "source_link": "https://www.koreaherald.com/view.php?ud=20250617000112"
-  },
-  {
-    "date": "2025-06-18",
-    "title": "《鬼滅之刃》將推歐洲專屬聯名活動",
-    "summary": "Aniplex與法國連鎖超市Leclerc合作，推出鬼滅限定食品與文具系列。",
-    "category": "Japan / IP / Licensing",
-    "source_link": "https://animeanime.jp/article/2025/06/17/89234.html"
-  },
-  {
-    "date": "2025-06-18",
-    "title": "Netflix宣佈投資韓國原創動畫IP",
-    "summary": "Netflix宣佈將投資韓國原創動畫系列《Bunny Rangers》，計劃2026年全球上線。",
-    "category": "Korea / IP / Media",
-    "source_link": "https://variety.com/2025/tv/news/netflix-korea-animation-bunny-rangers-1235678901/"
-  },
-
-  {
-    "date": "2024-10-01",
-    "title": "HTI Group 收購 Sambro International（英國）",
-    "summary": "HTI Group 於 2024 年 10 月收購英國玩具品牌 Sambro International，成為英國最大私人擁有玩具公司。",
-    "category": "Europe / Toy M&A",
-    "source_link": "https://globaltoynews.com/2025/05/29/toy-market-to-reach-usd-445-97-billion-by-2032-globally-growing-at-an-4-33-cagr-credence-research-pr/"
-  },
-  {
-    "date": "2020-10-11",
-    "title": "Spin Master 收購 Rubik’s Cube 製造商",
-    "summary": "加拿大 Spin Master 於 2020 年 10 月 以 5000 萬美元收購 Rubik’s Cube 原廠製造商，擴展其經典遊戲品線。",
-    "category": "North America / Toy M&A",
-    "source_link": "https://en.wikipedia.org/wiki/Spin_Master"
-  },
-  {
-    "date": "2023-08-18",
-    "title": "Sega Sammy 完成收購 Stakelogic（荷蘭）",
-    "summary": "Sega Sammy 2023 年 7 月提出收購荷蘭線上博彩平台 Stakelogic，並於 2025 年 4 月法庭裁定交易繼續進行。",
-    "category": "Europe / Corporate M&A / Japan",
-    "source_link": "https://en.wikipedia.org/wiki/Sega_Sammy_Holdings"
-  },
-  {
-    "date": "2023-08-03",
-    "title": "Hasbro 賣出 Entertainment One（加拿大）給 Lionsgate",
-    "summary": "美國玩具及娛樂巨頭 Hasbro 於 2023 年 8 月宣布以 5 億美元出售 Entertainment One 給 Lionsgate，集中核心品牌運營。",
-    "category": "North America / Toy M&A",
-    "source_link": "https://en.wikipedia.org/wiki/Hasbro"
-  },
-  {
-    "date": "2022-01-02",
-    "title": "Jazwares 收購 Kellytoy（美國）",
-    "summary": "Jazwares 旗下收購 Squishmallows 品牌 Kellytoy，將其產品整合至自己產品線並擴大 IP 獲利。",
-    "category": "North America / Toy M&A",
-    "source_link": "https://en.wikipedia.org/wiki/Jazwares"
-  },
-  {
-    "date": "2024-07-03",
-    "title": "Basic Fun Chapter 11 重組",
-    "summary": "美國玩具公司 Basic Fun（旗下包括 Lite Brite、K’nex、Care Bears 等）於特拉華州申請 Chapter 11，計劃重組並繼續營運。",
-    "category": "Toys / Bankruptcy",
-    "source_link": "https://www.retaildive.com/news/toy-company-basic-fun-restructure-bankruptcy/720472/"
-  },
-  {
-    "date": "2025-01-14",
-    "title": "Diamond Comic Distributors 申請 Chapter 11",
-    "summary": "美國漫畫分銷商 Diamond 申請 Chapter 11，後來其資產分拆由 Universal Distribution 與 Ad Populum 收購。",
-    "category": "Media / Bankruptcy / Acquisition",
-    "source_link": "https://en.wikipedia.org/wiki/Diamond_Comic_Distributors"
-  },
-  {
-    "date": "2024-12-18",
-    "title": "Party City Holdco Inc. 申請破產並清算",
-    "summary": "Party City Corporation 母公司於 2024 年 12 月申請 Chapter 11，並於 2025 年 2 月關閉多數門店，其 IP 與倉庫由 New Amscan 收購重建。",
-    "category": "Retail / Bankruptcy / IP Acquisition",
-    "source_link": "https://en.wikipedia.org/wiki/Party_City"
-  },
-  {
-    "date": "2025-06-12",
-    "title": "Mattel 與 OpenAI 合作應用生成式 AI 設計玩具",
-    "summary": "Mattel 携手 OpenAI 利用生成式 AI 技術設計玩具，擴展互動及 IP 重塑管道，首波產品預計年底發佈。",
-    "category": "ToyTech / AI / Licensing",
-    "source_link": "https://techcrunch.com/2025/06/12/openai-and-barbie-maker-mattel-team-up-to-bring-generative-ai-to-toy-making-and-content-creation/"
-  },
-  {
-    "date": "2025-06-20",
-    "title": "High Touch Entertainment 擴展 Spark IP 授權合作",
-    "summary": "High Touch Entertainment 與出版商及玩具製造商合作，將其 Spark 教育科學 IP 推出圖畫小說及 plush 玩具系列。",
-    "category": "Education / Licensing",
-    "source_link": "https://www.licenseglobal.com/toys-games/high-touch-entertainment-expands-spark-universe-with-new-publishing-and-toy-deals"
-  },
-  {
-    "date": "2025-06-12",
-    "title": "Mattel 與 Hasbro 建立聯名授權合作",
-    "summary": "Mattel 與 Hasbro 進行多款品牌聯名，包括 Barbie x Transformers x Uno 合作系列，擴展合作邊界。",
-    "category": "Licensing / Collaboration",
-    "source_link": "https://corporate.mattel.com/news/mattel-hasbro-enter-licensing-agreements-to-launch-monopoly-barbie-edition-transformers-hot-wheels-transformers-uno"
-  },
-  {
-    "date": "2025-06-16",
-    "title": "MGA 被英國法院批評針對初創公司採取報復行動",
-    "summary": "英國高等法院裁定 MGA Toys 對初創公司 Cabo 違反競爭法，濫用市場優勢作報復行動。",
-    "category": "Legal / Industry",
-    "source_link": "https://www.reuters.com/sustainability/boards-policy-regulation/us-toymaker-mga-criticised-by-uk-court-retaliatory-action-against-startup-2025-06-16/"
+    "title": "Toys\"R\"Us 澳洲分部申請破產",
+    "summary": "澳洲玩具反斗城因財困，已向澳洲證券交易所申請自願接管，並計劃清算，反映傳統玩具零售商的困境。",
+    "category": "Toys / Retail / Bankruptcy",
+    "source_link": "https://au.finance.yahoo.com/news/toys-r-us-collapses-second-022525753.html"
   }
 ]
