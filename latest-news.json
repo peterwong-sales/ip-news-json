@@ -2,15 +2,36 @@
   {
     "date": "2025-06-17",
     "title": "Hasbro裁員3%應對高關稅",
-    "summary": "Hasbro因應美國對中國玩具徵收高關稅，裁減約150名員工，同時重整供應鏈並加快數位及授權業務部署。",
+    "summary": "Hasbro因應美國對中國玩具徵收高關稅，裁減約150名員工，同時重整供應鏈並加快數碼與授權業務部署。",
     "category": "Toys / Business Restructuring",
     "source_link": "https://www.reuters.com/business/retail-consumer/hasbro-cuts-3-its-total-workforce-wsj-reports-2025-06-17/"
   },
   {
-    "date": "2025-06-06",
-    "title": "Miniso評估分拆TOP TOY並香港IPO",
-    "summary": "Miniso擬將TOP TOY業務分拆並在香港IPO，該業務一季收入增58.9％，店數年增120間。",
-    "category": "Toys / IP / Retail / Spin‑off",
-    "source_link": "https://www.reuters.com/business/retail-consumer/miniso-group-mulls-spin-off-its-pop-toy-business-2025-06-06/"
+    "date": "2025-06-17",
+    "title": "At Home申請Chapter 11破產重整",
+    "summary": "德州連鎖家居商At Home申請Chapter 11破產保護，計劃改革近20億美元債務並關閉26間門市。",
+    "category": "Retail / Bankruptcy",
+    "source_link": "https://www.houstonchronicle.com/news/houston-texas/trending/article/at-home-bankruptcy-20381053.php"
   },
+  {
+    "date": "2025-06-18",
+    "title": "Nippon Steel完成收購U.S. Steel",
+    "summary": "Nippon Steel以149億美元收購美國U.S. Steel，交易需美國政府介入並獲批准。",
+    "category": "Japan / M&A / Steel",
+    "source_link": "https://www.reuters.com/sustainability/boards-policy-regulation/nippon-steels-acquisition-us-steel-closes-with-big-role-trump-2025-06-18/"
+  },
+  {
+    "date": "2025-05-28",
+    "title": "Ain Holdings斥資6.9億美元收購競爭對手",
+    "summary": "日本Ain Holdings以約6.94億美元收購同業Kraft，強化藥房市場領導地位。",
+    "category": "Japan / M&A / Retail",
+    "source_link": "https://www.reuters.com/markets/deals/japans-ain-acquire-competitor-more-than-694-million-deal-nikkei-reports-2025-05-28/"
+  },
+  {
+    "date": "2025-05-08",
+    "title": "NTT擬私有化NTT Data",
+    "summary": "日本電訊公司NTT計劃以約16.4兆日圓收購NTT Data剩餘股份，通過公開收購轉為私有化。",
+    "category": "Japan / M&A / Telecom",
+    "source_link": "https://www.reuters.com/markets/deals/japans-nippon-telegraph-mulls-buying-remaining-ntt-data-shares-209-billion-2025-05-07/"
+  }
 ]
